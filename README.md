@@ -42,6 +42,9 @@ Please find full documentation under the `doc/` folder. Key documents:
 
 You may also wish to visit Intel Media Server Studio [support page](https://software.intel.com/en-us/intel-media-server-studio-support/documentation) for additional documentation.
 
+Don\`t know how to build Media SDK?  
+Visit our [Github Wiki](https://github.com/Intel-Media-SDK/MediaSDK/wiki)!
+
 # Products which use Media SDK
 
 * [Intel Media Server Studio](https://software.intel.com/en-us/intel-media-server-studio)
